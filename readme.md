@@ -1,4 +1,4 @@
-## OLX Layout App
+#OLX Layout App
 
 Demo app to an interview exercise
 
@@ -15,7 +15,7 @@ Devido ao pouco tempo que tive, não consegui abordar todas as potêncialidades 
 - Usava a tecnologia SASS para pré-compilar todo o meu CSS
 
 
-#Explicação do Exercício
+##Explicação do Exercício
 
 Não é necessário ter um servidor a correr, basta só aceder á página através do browser.
 - Para começar, o utilizador tem de se registar. Na barra de navegação, clique em "Sign Up"
