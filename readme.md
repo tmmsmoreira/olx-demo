@@ -21,5 +21,5 @@ Não é necessário ter um servidor a correr, basta só aceder á página atrav�
 - Para começar, o utilizador tem de se registar. Na barra de navegação, clique em "Sign Up"
 - Escolha um username e password (não há nenhuma validação a ser feita pelo formulário)
 - Após o registo, é logo redireccionado para a página de login. Faça então o login com as credenciais anteriormente adicionadas.
-- Após o login, pode ver uma lista default de produtos acedendo ao link 'Search' na barra de navegação
+- Após o login, pode ver uma lista default de produtos acedendo ao link 'Produtos' na barra de navegação
 - Quando pretender pode fazer logout.
